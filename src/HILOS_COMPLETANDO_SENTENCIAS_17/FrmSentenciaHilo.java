@@ -19,6 +19,7 @@ public class FrmSentenciaHilo extends JFrame {
 
     String respuesta1, respuesta2, respuesta3, respuesta4, respuesta5, respuesta6, respuesta7, respuesta8;
 
+
     private JLabel imagen;
     private JTextArea txtEscrito;
     private JTextField[] txtRespuestas;
